@@ -8,3 +8,9 @@ You need:
 - Number of mentions per comment  
 
 The code collects your followers and puts them in comments according to the designated number of mentions.
+
+
+Necesita instalar las librerias:
+
+- InstagramAPI
+- instaloader
