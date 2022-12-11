@@ -1,5 +1,5 @@
 # instagram_auto_raffle
-This python code allows to participate in instagram sweepstakes automatically, where it is necessary to post comments by adding people.  
+This python code allows to participate in instagram raffles automatically, where it is necessary to post comments by adding people.  
 
 You need: 
 - Username 
