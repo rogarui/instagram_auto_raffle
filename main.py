@@ -48,7 +48,7 @@ def auto_sorteo(menciones, media_id, user, password):
                 print(comment_text)
                 count = 1
                 lista = []
-                lista.append(follower)
+                lista.append(follower["username"])
             #If not, add the follower to the list
             else:
                 lista.append(follower["username"])
